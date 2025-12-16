@@ -1,0 +1,21 @@
+{
+  "name": "mern-auth-system-backend",
+  "version": "1.0.0",
+  "description": "Mern stack authentication system design.",
+  "homepage": "https://github.com/quantumrahman/mern-auth-system-backend#readme",
+  "bugs": {
+    "url": "https://github.com/quantumrahman/mern-auth-system-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantumrahman/mern-auth-system-backend.git"
+  },
+  "license": "ISC",
+  "author": "Rakibul Rahman",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  }
+}
